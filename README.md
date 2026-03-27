@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name:Ajay.M
-### Reg no: 212224080003
+### Name:Ashwin a
+### Reg no: 212224080007
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
